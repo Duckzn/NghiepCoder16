@@ -46,7 +46,7 @@ tick();
 
 function TikTok() {
     setTimeout(function() {
-            window.open('https://www.tiktok.com/@umee.yari', 'ultimate')
+            window.open('https://www.tiktok.com/@ume.yari', 'ultimate')
         },
         100);
 }
